@@ -9,3 +9,11 @@ p{
     font-style: italic;
     color: brown;
 }
+span{
+    font-size: 50px;
+    display: block;
+    border:20px darkblue;
+    box-sizing: border-box;
+    color: darkmagenta;
+    background-color: yellow;
+}
