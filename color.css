@@ -1,3 +1,11 @@
 *{
     text-align: center;
 }
+p{
+    color: forestgreen;
+    font-size: 32px;
+}
+.head{
+    font-style: italic;
+    color: brown;
+}
